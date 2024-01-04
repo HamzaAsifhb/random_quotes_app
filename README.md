@@ -1,4 +1,4 @@
-# my_classroom_app
+# random_quotes_app_liveclass
 
 A new Flutter project.
 
